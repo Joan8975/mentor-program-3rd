@@ -15,18 +15,17 @@ Codewar 是一個程式解題平台，上面充滿著各種開發者出的題目
 若是認真想過還是想不出來，這時候可以先尋求一些提示，如果還是沒頭緒，這時候才能去查解答。但看完解答之後務必理解，並且重新再測驗一遍。
 
 做完之後請自行把標題的 ❌ 換成 ✅。
-
 ## 題目列表
 
 以下按照題目難度分類
 
 ## 零顆星（超簡單）
 
-### ❌ Opposite number
+### ✅ Opposite number
 題目連結：https://www.codewars.com/kata/opposite-number/javascript  
 題目說明：正數變負數，反之亦然
 
-### ❌ Even or Odd
+### ✅ Even or Odd
 題目連結：https://www.codewars.com/kata/even-or-odd/javascript  
 題目說明：判斷是奇數或是偶數
 
